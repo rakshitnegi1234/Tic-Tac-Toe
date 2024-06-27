@@ -1,0 +1,45 @@
+body
+{
+    padding: 0%;
+    margin:0;
+    box-sizing: border-box;
+    background-color: rgb(3, 252, 136);
+}
+h1
+{
+    text-align: center;
+}
+.container
+{
+    height: 100vh;
+    width: 100%;
+}
+.game
+{
+    height:70rem;
+    width:70rem;
+    margin-left: 20rem;
+}
+p
+{
+    margin-left:18rem;
+}
+.box
+{
+    font-size: 2rem;
+    height: 4rem;
+    width: 4rem;
+    margin: 10px 20px 10px 10px;
+    color:red;
+}
+.a 
+{
+    display: flex;
+    margin-left: 11rem;
+   
+}
+.reset
+{
+    height: 2rem;
+    width: 4rem;
+}
